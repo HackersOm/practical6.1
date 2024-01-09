@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TableLayout</string>
+    <string name="student1">Student name = Om Sutar\n Student class= TYCO \n Student Roll = 27\n Student college = SGMRP </string>
+    <string name="student2">Student name = Om Sutar\n Student class= TYCO \n Student Roll = 27\n Student college = SGMRP </string>
+    <string name="student3">Student name = Om Sutar\n Student class= TYCO \n Student Roll = 27\n Student college = SGMRP </string>
+    <string name="student4">Student name = Om Sutar\n Student class= TYCO \n Student Roll = 27\n Student college = SGMRP </string>
+    <string name="student5">Student name = Om Sutar\n Student class= TYCO \n Student Roll = 27\n Student college = SGMRP </string>
+    <string name="student6">Student name = Om Sutar\n Student class= TYCO \n Student Roll = 27\n Student college = SGMRP </string>
+    <string name="student7">Student name = Om Sutar\n Student class= TYCO \n Student Roll = 27\n Student college = SGMRP </string>
+    <string name="student8">Student name = Om Sutar\n Student class= TYCO \n Student Roll = 27\n Student college = SGMRP </string>
+    <string name="student9">Student name = Om Sutar\n Student class= TYCO \n Student Roll = 27\n Student college = SGMRP </string>
+    <string name="student10">Student name = Om Sutar\n Student class= TYCO \n Student Roll = 27\n Student college = SGMRP </string>
+</resources>
